@@ -156,6 +156,7 @@ class LivewireSelect extends Component
             ->mapWithKeys(function ($key) {
                 return ["{$key}Updated" => 'updateDependingValue'];
             })
+            ->merge($this->listeners)
             ->toArray();
     }
 
