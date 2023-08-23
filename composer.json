@@ -1,5 +1,5 @@
 {
-    "name": "asantibanez/livewire-select",
+    "name": "tustin/livewire-select",
     "description": "Livewire dropdown select component",
     "keywords": [
         "asantibanez",
@@ -13,6 +13,10 @@
             "name": "Andrés Santibáñez",
             "email": "santibanez.andres@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Tustin",
+            "email": "tustin@tustin.dev"
         }
     ],
     "require": {
